@@ -1,0 +1,11 @@
+CREATE UNIQUE INDEX idx_user_email on user_table (email);
+CREATE UNIQUE INDEX idx_user_phone on user_table (phone);
+CREATE INDEX idx_user_name on user_table (name);
+CREATE INDEX idx_product on products (category);
+CREATE INDEX idx_product_name on products (name);
+CREATE UNIQUE INDEX idx_basket on basket (userid);
+CREATE INDEX idx_payment on Payments (orderid);
+CREATE INDEX idx_payment_type on Payments (type);
+CREATE UNIQUE INDEX idx_wallet on wallet (userid);
+CREATE UNIQUE INDEX idx_order_order on grocery_orders (order_id);
+CREATE UNIQUE INDEX idx_order_buyer on grocery_orders (buyer_id);
