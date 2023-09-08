@@ -1,0 +1,1440 @@
+2021-06-23 12:20:08,343 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 3764 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 12:20:08,358 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 12:20:08,358 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 12:20:37,356 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 12:20:37,358 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 12:20:38,882 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 32.38 seconds (JVM running for 34.187)
+2021-06-23 12:21:27,395 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 12:24:18,141 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 13756 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 12:24:18,144 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 12:24:18,145 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 12:24:23,855 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 12:24:23,855 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 12:24:24,668 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 7.068 seconds (JVM running for 7.526)
+2021-06-23 12:24:29,619 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 12:26:57,189 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 12:27:40,670 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 2864 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 12:27:40,674 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 12:27:40,674 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 12:27:46,101 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 12:27:46,102 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 12:27:46,934 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.751 seconds (JVM running for 7.164)
+2021-06-23 12:27:50,908 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 12:29:31,757 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 9116 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 12:29:31,760 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 12:29:31,761 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 12:29:37,082 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 12:29:37,083 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 12:29:37,895 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.633 seconds (JVM running for 7.048)
+2021-06-23 12:29:41,799 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 12:29:41,935 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-2] No user exist by id
+2021-06-23 12:29:41,945 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-2] New user creating with id = abcd@ts
+2021-06-23 12:29:42,187 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-2] User abcd@ts Created
+2021-06-23 12:30:17,869 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 12:30:17,873 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-3] No user exist by id
+2021-06-23 12:31:10,727 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting Header
+2021-06-23 12:31:10,730 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-5] No user exist by id
+2021-06-23 12:31:10,730 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-5] New user creating with id = abcd@ts
+2021-06-23 12:31:52,230 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-7] Extracting Header
+2021-06-23 12:33:10,547 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-10] Extracting Header
+2021-06-23 12:36:55,704 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 13388 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 12:36:55,710 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 12:36:55,710 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 12:37:00,804 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 12:37:00,805 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 12:37:01,614 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.396 seconds (JVM running for 6.84)
+2021-06-23 12:37:07,652 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 12:37:07,810 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-3] No user exist by id
+2021-06-23 12:37:07,819 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-3] New user creating with id = abcde@ts
+2021-06-23 12:37:07,917 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-3] User abcde@ts Created
+2021-06-23 12:37:16,922 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 12:37:23,185 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting Header
+2021-06-23 12:46:04,088 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 2596 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 12:46:04,091 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 12:46:04,092 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 12:46:09,215 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 12:46:09,215 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 12:46:10,004 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.384 seconds (JVM running for 6.794)
+2021-06-23 12:46:19,984 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 12:46:20,364 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-2] No user exist by id
+2021-06-23 12:46:20,371 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-2] New user creating with id = abcde@ts
+2021-06-23 12:46:20,441 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-2] User abcde@ts Created
+2021-06-23 12:46:34,803 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 12:46:34,820 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-1] No user exist by id
+2021-06-23 12:46:34,822 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-1] New user creating with id = abcd@ts
+2021-06-23 12:46:34,860 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-1] User abcd@ts Created
+2021-06-23 12:49:56,995 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 9116 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 12:49:56,998 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 12:49:56,998 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 12:50:02,150 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 12:50:02,151 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 12:50:02,917 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.396 seconds (JVM running for 6.81)
+2021-06-23 12:50:09,172 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 12:50:09,432 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-2] No user exist by id
+2021-06-23 12:50:09,440 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-2] New user creating with id = abcd@ts
+2021-06-23 12:50:09,529 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-2] User abcd@ts Created
+2021-06-23 12:50:21,893 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 12:50:41,293 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 12:50:53,723 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting Header
+2021-06-23 12:50:53,728 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-5] No user exist by id
+2021-06-23 12:50:53,729 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-5] New user creating with id = abcde@ts
+2021-06-23 12:50:53,737 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-5] User abcde@ts Created
+2021-06-23 12:51:14,367 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-23 12:54:16,787 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting Header
+2021-06-23 12:54:16,791 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-9] Requesting token
+2021-06-23 12:54:16,791 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-9] Requesting token for user abcdef@ts
+2021-06-23 12:54:16,793 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-9] Finding User with email abcdef@ts
+2021-06-23 12:54:16,794 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-9] No user exists by abcdef@ts email
+2021-06-23 12:54:16,796 ERROR com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-9] Bad Credentials
+org.springframework.security.authentication.BadCredentialsException: Bad credentials
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:141)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:201)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter$AuthenticationManagerDelegator.authenticate(WebSecurityConfigurerAdapter.java:518)
+	at com.training.grocery.JWT.Controllers.JwtController.generateToken(JwtController.java:41)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.training.grocery.JWT.Config.GenericFilter.doFilterInternal(GenericFilter.java:71)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:115)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:121)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:115)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at com.training.grocery.JWT.Config.JwtAuthenticationFilter.doFilterInternal(JwtAuthenticationFilter.java:68)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-06-23 12:54:32,635 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 12:54:32,637 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] Requesting token
+2021-06-23 12:54:32,638 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] Requesting token for user abcde@ts
+2021-06-23 12:54:32,638 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding User with email abcde@ts
+2021-06-23 12:54:32,641 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding roles of abcde@ts 
+2021-06-23 12:54:32,645 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] User abcde@ts Authenticated
+2021-06-23 12:54:32,645 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding User with email abcde@ts
+2021-06-23 12:54:32,646 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding roles of abcde@ts 
+2021-06-23 12:54:32,703 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] Token Gnerated 
+2021-06-23 12:54:32,704 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] Token Gnerated eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYmNkZUB0cyIsImV4cCI6MTYyNDQ2OTA3MiwiaWF0IjoxNjI0NDMzMDcyfQ.X_hxUXwyHiB1-M-XVvlK2NicuQhhuUPt3xQ7HsNXlx8
+2021-06-23 12:54:37,454 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 12:54:37,456 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-2] Requesting token
+2021-06-23 12:54:37,457 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-2] Requesting token for user null
+2021-06-23 12:54:37,457 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email NONE_PROVIDED
+2021-06-23 12:54:37,459 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] No user exists by NONE_PROVIDED email
+2021-06-23 12:54:37,460 ERROR com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-2] Bad Credentials
+org.springframework.security.authentication.BadCredentialsException: Bad credentials
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:141)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:201)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter$AuthenticationManagerDelegator.authenticate(WebSecurityConfigurerAdapter.java:510)
+	at com.training.grocery.JWT.Controllers.JwtController.generateToken(JwtController.java:41)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.training.grocery.JWT.Config.GenericFilter.doFilterInternal(GenericFilter.java:71)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:115)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:121)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:115)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at com.training.grocery.JWT.Config.JwtAuthenticationFilter.doFilterInternal(JwtAuthenticationFilter.java:68)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-06-23 12:56:57,106 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 13904 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 12:56:57,110 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 12:56:57,110 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 12:57:02,332 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 12:57:02,332 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 12:57:03,094 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.463 seconds (JVM running for 6.857)
+2021-06-23 12:57:10,055 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 12:57:10,140 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] Requesting token
+2021-06-23 12:57:10,141 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] Requesting token for user abcde@ts
+2021-06-23 12:57:10,143 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding User with email abcde@ts
+2021-06-23 12:57:10,248 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] No user exists by abcde@ts email
+2021-06-23 12:57:10,251 ERROR com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] Bad Credentials
+org.springframework.security.authentication.BadCredentialsException: Bad credentials
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:141)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:201)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter$AuthenticationManagerDelegator.authenticate(WebSecurityConfigurerAdapter.java:518)
+	at com.training.grocery.JWT.Controllers.JwtController.generateToken(JwtController.java:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.training.grocery.JWT.Config.GenericFilter.doFilterInternal(GenericFilter.java:71)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:115)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:121)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:115)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at com.training.grocery.JWT.Config.JwtAuthenticationFilter.doFilterInternal(JwtAuthenticationFilter.java:68)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-06-23 12:57:17,829 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting Header
+2021-06-23 12:57:17,831 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-5] Requesting token
+2021-06-23 12:57:17,832 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-5] Requesting token for user null
+2021-06-23 12:57:17,832 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] Finding User with email NONE_PROVIDED
+2021-06-23 12:57:17,834 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] No user exists by NONE_PROVIDED email
+2021-06-23 12:57:17,835 ERROR com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-5] Bad Credentials
+org.springframework.security.authentication.BadCredentialsException: Bad credentials
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:141)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:201)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter$AuthenticationManagerDelegator.authenticate(WebSecurityConfigurerAdapter.java:510)
+	at com.training.grocery.JWT.Controllers.JwtController.generateToken(JwtController.java:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.training.grocery.JWT.Config.GenericFilter.doFilterInternal(GenericFilter.java:71)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:115)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:121)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:115)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at com.training.grocery.JWT.Config.JwtAuthenticationFilter.doFilterInternal(JwtAuthenticationFilter.java:68)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-06-23 12:57:25,389 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-23 12:57:31,264 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting Header
+2021-06-23 12:57:31,266 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-8] Requesting token
+2021-06-23 12:57:31,267 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-8] Requesting token for user abcde@ts
+2021-06-23 12:57:31,267 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding User with email abcde@ts
+2021-06-23 12:57:31,269 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] No user exists by abcde@ts email
+2021-06-23 12:57:31,270 ERROR com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-8] Bad Credentials
+org.springframework.security.authentication.BadCredentialsException: Bad credentials
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:141)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:201)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter$AuthenticationManagerDelegator.authenticate(WebSecurityConfigurerAdapter.java:510)
+	at com.training.grocery.JWT.Controllers.JwtController.generateToken(JwtController.java:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.training.grocery.JWT.Config.GenericFilter.doFilterInternal(GenericFilter.java:71)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:115)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:121)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:115)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at com.training.grocery.JWT.Config.JwtAuthenticationFilter.doFilterInternal(JwtAuthenticationFilter.java:68)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-06-23 12:58:37,167 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 11684 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 12:58:37,171 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 12:58:37,171 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 12:58:41,855 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 12:58:41,856 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 12:58:42,625 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.937 seconds (JVM running for 6.331)
+2021-06-23 12:58:48,036 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 12:58:48,123 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] Requesting token
+2021-06-23 12:58:48,124 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] Requesting token for user abcde@ts
+2021-06-23 12:58:48,126 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding User with email abcde@ts
+2021-06-23 12:58:48,249 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] No user exists by abcde@ts email
+2021-06-23 12:58:48,252 ERROR com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-1] Bad Credentials
+org.springframework.security.authentication.BadCredentialsException: Bad credentials
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:141)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:201)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter$AuthenticationManagerDelegator.authenticate(WebSecurityConfigurerAdapter.java:518)
+	at com.training.grocery.JWT.Controllers.JwtController.generateToken(JwtController.java:40)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.training.grocery.JWT.Config.GenericFilter.doFilterInternal(GenericFilter.java:71)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:115)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:121)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:115)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at com.training.grocery.JWT.Config.JwtAuthenticationFilter.doFilterInternal(JwtAuthenticationFilter.java:68)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-06-23 12:58:52,435 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 12:58:52,438 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-4] Requesting token
+2021-06-23 12:58:52,439 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-4] Requesting token for user null
+2021-06-23 12:58:52,439 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email NONE_PROVIDED
+2021-06-23 12:58:52,442 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] No user exists by NONE_PROVIDED email
+2021-06-23 12:58:52,443 ERROR com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-4] Bad Credentials
+org.springframework.security.authentication.BadCredentialsException: Bad credentials
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:141)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:201)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter$AuthenticationManagerDelegator.authenticate(WebSecurityConfigurerAdapter.java:510)
+	at com.training.grocery.JWT.Controllers.JwtController.generateToken(JwtController.java:40)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.training.grocery.JWT.Config.GenericFilter.doFilterInternal(GenericFilter.java:71)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:115)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:121)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:115)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at com.training.grocery.JWT.Config.JwtAuthenticationFilter.doFilterInternal(JwtAuthenticationFilter.java:68)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-06-23 12:58:58,799 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-23 12:58:58,800 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-6] Requesting token
+2021-06-23 12:58:58,801 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-6] Requesting token for user abcde@ts
+2021-06-23 12:58:58,801 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding User with email abcde@ts
+2021-06-23 12:58:58,802 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] No user exists by abcde@ts email
+2021-06-23 12:58:58,803 ERROR com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-6] Bad Credentials
+org.springframework.security.authentication.BadCredentialsException: Bad credentials
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:141)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:201)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter$AuthenticationManagerDelegator.authenticate(WebSecurityConfigurerAdapter.java:510)
+	at com.training.grocery.JWT.Controllers.JwtController.generateToken(JwtController.java:40)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at com.training.grocery.JWT.Config.GenericFilter.doFilterInternal(GenericFilter.java:71)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:115)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:121)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:115)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at com.training.grocery.JWT.Config.JwtAuthenticationFilter.doFilterInternal(JwtAuthenticationFilter.java:68)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-06-23 13:21:10,356 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 13828 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 13:21:10,363 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 13:21:10,363 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 13:21:15,092 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 13:21:15,093 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 13:21:32,612 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 4628 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 13:21:32,615 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 13:21:32,615 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 13:21:37,072 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 13:21:37,073 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 13:21:37,812 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.68 seconds (JVM running for 6.083)
+2021-06-23 13:21:48,142 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 13:21:48,385 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-1] No user exist by id
+2021-06-23 13:21:48,392 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-1] New user creating with id = abcdef@ts
+2021-06-23 13:21:48,473 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-1] User abcdef@ts Created
+2021-06-23 13:22:01,483 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 13:22:01,491 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-3] No user exist by id
+2021-06-23 13:22:01,493 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-3] New user creating with id = abcde@ts
+2021-06-23 13:22:01,508 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-3] User abcde@ts Created
+2021-06-23 13:30:13,970 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-23 13:30:47,237 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting Header
+2021-06-23 13:30:47,238 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-8] Requesting token
+2021-06-23 13:30:47,238 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-8] Requesting token for user abcde@ts
+2021-06-23 13:30:47,240 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding User with email abcde@ts
+2021-06-23 13:30:47,251 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding roles of abcde@ts 
+2021-06-23 13:30:47,253 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-8] User abcde@ts Authenticated
+2021-06-23 13:30:47,253 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding User with email abcde@ts
+2021-06-23 13:30:47,255 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding roles of abcde@ts 
+2021-06-23 13:30:47,272 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-8] Token Gnerated 
+2021-06-23 13:30:47,273 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-8] Token Gnerated eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYmNkZUB0cyIsImV4cCI6MTYyNDQ3MTI0NywiaWF0IjoxNjI0NDM1MjQ3fQ.irfxK6-AtztGl1rENukrlhacMmBqdAqcSzn9DPk21EY
+2021-06-23 13:31:29,153 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting Header
+2021-06-23 13:31:29,154 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting email from token
+2021-06-23 13:31:29,163 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-9] Finding User with email abcde@ts
+2021-06-23 13:31:29,180 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-9] Finding roles of abcde@ts 
+2021-06-23 13:31:29,181 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-9] Extracting email from token
+2021-06-23 13:32:01,602 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 13:32:01,603 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 13:32:01,603 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email abcde@ts
+2021-06-23 13:32:01,605 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of abcde@ts 
+2021-06-23 13:32:01,606 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 13:32:20,198 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 13:32:20,198 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 13:32:20,198 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email abcde@ts
+2021-06-23 13:32:20,200 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of abcde@ts 
+2021-06-23 13:32:20,201 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 13:33:05,046 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting Header
+2021-06-23 13:33:05,046 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting email from token
+2021-06-23 13:33:05,047 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] Finding User with email abcde@ts
+2021-06-23 13:33:05,049 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] Finding roles of abcde@ts 
+2021-06-23 13:33:05,050 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-5] Extracting email from token
+2021-06-23 13:33:17,255 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-23 13:33:17,255 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-23 13:33:17,256 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding User with email abcde@ts
+2021-06-23 13:33:17,258 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding roles of abcde@ts 
+2021-06-23 13:33:17,259 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-23 13:33:30,998 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-7] Extracting Header
+2021-06-23 13:33:30,999 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-7] Extracting email from token
+2021-06-23 13:33:31,000 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-7] Finding User with email abcde@ts
+2021-06-23 13:33:31,003 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-7] Finding roles of abcde@ts 
+2021-06-23 13:33:31,004 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-7] Extracting email from token
+2021-06-23 13:33:37,785 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting Header
+2021-06-23 13:33:37,785 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting email from token
+2021-06-23 13:33:37,785 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding User with email abcde@ts
+2021-06-23 13:33:37,787 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding roles of abcde@ts 
+2021-06-23 13:33:37,788 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-8] Extracting email from token
+2021-06-23 13:41:12,640 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 3684 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 13:41:12,645 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 13:41:12,645 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 13:41:17,216 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 13:41:17,218 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 13:41:18,034 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.873 seconds (JVM running for 6.284)
+2021-06-23 13:41:53,719 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 13:41:53,720 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-23 13:41:53,758 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding User with email abcde@ts
+2021-06-23 13:41:53,942 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding roles of abcde@ts 
+2021-06-23 13:41:53,948 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-23 13:42:26,335 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 3448 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 13:42:26,338 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 13:42:26,338 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 13:42:30,769 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 13:42:30,769 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 13:42:31,510 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.65 seconds (JVM running for 6.07)
+2021-06-23 13:43:03,110 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 13:43:03,112 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 13:43:03,159 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email abcde@ts
+2021-06-23 13:43:03,360 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of abcde@ts 
+2021-06-23 13:43:03,369 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 13:43:03,501 DEBUG com.training.grocery.PRODUCT.ProductService [http-nio-8080-exec-2] Prod details of 1 updated successfully
+2021-06-23 13:43:37,156 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 13:43:37,157 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 13:43:37,158 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email abcde@ts
+2021-06-23 13:43:37,160 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of abcde@ts 
+2021-06-23 13:43:37,161 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 13:43:48,570 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting Header
+2021-06-23 13:43:48,571 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting email from token
+2021-06-23 13:43:48,572 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] Finding User with email abcde@ts
+2021-06-23 13:43:48,574 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] Finding roles of abcde@ts 
+2021-06-23 13:43:48,574 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-5] Extracting email from token
+2021-06-23 13:47:37,694 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 12384 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 13:47:37,697 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 13:47:37,697 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 13:47:42,501 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 13:47:42,502 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 13:47:43,259 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.044 seconds (JVM running for 6.453)
+2021-06-23 13:48:02,158 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 13:48:02,161 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 13:48:02,201 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email abcde@ts
+2021-06-23 13:48:02,395 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of abcde@ts 
+2021-06-23 13:48:02,404 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 13:48:09,132 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 13:48:09,133 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 13:48:09,133 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email abcde@ts
+2021-06-23 13:48:09,136 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of abcde@ts 
+2021-06-23 13:48:09,137 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 13:50:20,609 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 8576 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 13:50:20,612 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 13:50:20,613 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 13:50:25,078 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 13:50:25,079 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 13:50:25,867 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.738 seconds (JVM running for 6.174)
+2021-06-23 13:50:34,484 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 13:50:34,485 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-23 13:50:34,529 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding User with email abcde@ts
+2021-06-23 13:50:34,710 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding roles of abcde@ts 
+2021-06-23 13:50:34,718 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-23 13:51:49,920 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting Header
+2021-06-23 13:51:49,921 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting email from token
+2021-06-23 13:51:49,922 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] Finding User with email abcd@ts
+2021-06-23 13:51:49,924 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] No user exists by abcd@ts email
+2021-06-23 13:52:13,821 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 13:52:13,822 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 13:52:13,822 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email abcde@ts
+2021-06-23 13:52:13,824 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding roles of abcde@ts 
+2021-06-23 13:52:13,825 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 13:54:42,479 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 10448 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 13:54:42,483 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 13:54:42,483 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 13:54:46,892 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 13:54:46,893 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 13:54:47,633 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.646 seconds (JVM running for 6.1)
+2021-06-23 13:55:01,717 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 13:55:01,720 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 13:55:01,765 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email abcde@ts
+2021-06-23 13:55:01,969 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of abcde@ts 
+2021-06-23 13:55:01,980 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 13:55:09,624 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 13:55:09,625 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 13:55:09,626 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email abcde@ts
+2021-06-23 13:55:09,628 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding roles of abcde@ts 
+2021-06-23 13:55:09,629 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 14:00:44,159 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 3516 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 14:00:44,163 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 14:00:44,163 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 14:00:48,506 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 14:00:48,507 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 14:00:49,283 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.598 seconds (JVM running for 6.005)
+2021-06-23 14:01:23,100 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 14:01:23,101 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 14:01:23,149 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email abcde@ts
+2021-06-23 14:01:23,334 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of abcde@ts 
+2021-06-23 14:01:23,343 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 14:02:41,112 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 14:02:41,113 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 14:02:41,114 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email abcde@ts
+2021-06-23 14:02:41,116 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding roles of abcde@ts 
+2021-06-23 14:02:41,117 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 14:03:04,635 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-23 14:03:04,636 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-23 14:03:04,637 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding User with email abcde@ts
+2021-06-23 14:03:04,640 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding roles of abcde@ts 
+2021-06-23 14:03:04,640 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-23 14:03:46,923 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 12440 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 14:03:46,926 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 14:03:46,926 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 14:03:51,533 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 14:03:51,534 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 14:03:52,303 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.874 seconds (JVM running for 6.293)
+2021-06-23 14:04:46,005 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 14:04:46,006 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 14:04:46,055 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email abcde@ts
+2021-06-23 14:04:46,251 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of abcde@ts 
+2021-06-23 14:04:46,261 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 14:05:13,108 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 14:05:13,108 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 14:05:13,109 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email abcde@ts
+2021-06-23 14:05:13,113 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding roles of abcde@ts 
+2021-06-23 14:05:13,113 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 14:06:03,550 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 9232 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 14:06:03,553 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 14:06:03,554 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 14:06:08,035 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 14:06:08,036 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 14:06:08,822 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.755 seconds (JVM running for 6.187)
+2021-06-23 14:06:12,085 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 14:06:12,087 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-23 14:06:12,124 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding User with email abcde@ts
+2021-06-23 14:06:12,302 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding roles of abcde@ts 
+2021-06-23 14:06:12,312 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-23 14:06:21,362 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 14:06:21,363 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 14:06:21,364 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email abcde@ts
+2021-06-23 14:06:21,366 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of abcde@ts 
+2021-06-23 14:06:21,366 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 14:06:41,055 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting Header
+2021-06-23 14:06:41,056 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting email from token
+2021-06-23 14:06:41,057 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] Finding User with email abcd@ts
+2021-06-23 14:06:41,059 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] No user exists by abcd@ts email
+2021-06-23 14:06:47,308 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 14:06:47,309 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 14:06:47,310 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email abcde@ts
+2021-06-23 14:06:47,313 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding roles of abcde@ts 
+2021-06-23 14:06:47,314 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 14:07:11,889 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-23 14:07:11,890 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-23 14:07:11,890 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding User with email abcde@ts
+2021-06-23 14:07:11,892 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding roles of abcde@ts 
+2021-06-23 14:07:11,893 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-23 14:07:16,642 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting Header
+2021-06-23 14:07:16,643 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting email from token
+2021-06-23 14:07:16,643 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding User with email abcde@ts
+2021-06-23 14:07:16,645 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding roles of abcde@ts 
+2021-06-23 14:07:16,646 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-8] Extracting email from token
+2021-06-23 15:35:15,673 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 6788 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 15:35:15,710 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 15:35:15,711 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 15:35:20,789 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 15:35:20,790 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 15:35:21,556 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.407 seconds (JVM running for 6.819)
+2021-06-23 15:39:02,218 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 15:39:02,737 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-2] No user exist by id
+2021-06-23 15:39:02,777 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-2] New user creating with id = tarun@ts
+2021-06-23 15:39:02,961 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-2] User tarun@ts Created
+2021-06-23 15:39:31,641 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 15:39:31,646 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Requesting token
+2021-06-23 15:39:31,646 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Requesting token for user tarun@ts
+2021-06-23 15:39:31,647 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email tarun@ts
+2021-06-23 15:39:31,678 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of tarun@ts 
+2021-06-23 15:39:31,679 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] User tarun@ts Authenticated
+2021-06-23 15:39:31,680 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email tarun@ts
+2021-06-23 15:39:31,681 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of tarun@ts 
+2021-06-23 15:39:31,726 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Token Gnerated 
+2021-06-23 15:39:31,726 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Token Gnerated eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0YXJ1bkB0cyIsImV4cCI6MTYyNDQ3ODk3MSwiaWF0IjoxNjI0NDQyOTcxfQ.VHV2-qtPydRgRlt_6IM2ICbvw9vGVClo4xDi1FL9kiQ
+2021-06-23 15:39:51,383 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 15:39:51,384 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 15:39:51,394 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email tarun@ts
+2021-06-23 15:39:51,412 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding roles of tarun@ts 
+2021-06-23 15:39:51,413 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 15:39:51,416 INFO com.training.grocery.walletpay.WalletController [http-nio-8080-exec-4] Get method /amount, by userid 3
+2021-06-23 15:41:27,227 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-7] Extracting Header
+2021-06-23 15:41:27,228 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-7] Extracting email from token
+2021-06-23 15:41:27,229 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-7] Finding User with email tarun@ts
+2021-06-23 15:41:27,233 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-7] Finding roles of tarun@ts 
+2021-06-23 15:41:27,234 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-7] Extracting email from token
+2021-06-23 15:41:31,650 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting Header
+2021-06-23 15:41:31,651 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting email from token
+2021-06-23 15:41:31,652 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding User with email tarun@ts
+2021-06-23 15:41:31,654 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding roles of tarun@ts 
+2021-06-23 15:41:31,655 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-8] Extracting email from token
+2021-06-23 15:41:31,662 INFO com.training.grocery.payment.PaymentController [http-nio-8080-exec-8] Get method /add/2000.0 , by userid 3 1
+2021-06-23 15:41:44,167 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting Header
+2021-06-23 15:41:44,168 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting email from token
+2021-06-23 15:41:44,169 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-9] Finding User with email tarun@ts
+2021-06-23 15:41:44,170 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-9] Finding roles of tarun@ts 
+2021-06-23 15:41:44,171 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-9] Extracting email from token
+2021-06-23 15:41:44,174 INFO com.training.grocery.payment.PaymentController [http-nio-8080-exec-9] Get method /add/2000.0 , by userid 3 3
+2021-06-23 15:54:13,873 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 12968 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 15:54:13,876 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 15:54:13,876 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 15:54:18,622 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 15:54:18,623 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 15:54:19,424 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.036 seconds (JVM running for 6.454)
+2021-06-23 15:55:09,463 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 15:55:09,464 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 15:55:09,505 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email tarun@ts
+2021-06-23 15:55:09,672 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of tarun@ts 
+2021-06-23 15:55:09,680 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 15:55:09,716 INFO com.training.grocery.basket.BasketController [http-nio-8080-exec-2] Post method /basket/add, by userid 3
+2021-06-23 15:55:09,765 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-2] 3 userBasket is null
+2021-06-23 15:55:09,930 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-2] 3 created new entry in Basket
+2021-06-23 15:56:09,307 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 15:56:09,307 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 15:56:09,308 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email tarun@ts
+2021-06-23 15:56:09,310 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of tarun@ts 
+2021-06-23 15:56:09,311 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 15:56:09,314 INFO com.training.grocery.basket.BasketController [http-nio-8080-exec-3] Post method /basket/add, by userid 3
+2021-06-23 15:56:09,319 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-3] 3 userBasket exists but Productid doesn't
+2021-06-23 15:56:09,332 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-3] 3 new details saved in basket
+2021-06-23 15:56:31,774 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 15:56:31,774 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 15:56:31,775 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email tarun@ts
+2021-06-23 15:56:31,778 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding roles of tarun@ts 
+2021-06-23 15:56:31,778 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 15:56:31,781 INFO com.training.grocery.basket.BasketController [http-nio-8080-exec-4] Post method /basket/add, by userid 3
+2021-06-23 15:56:31,783 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-4] 3 userBasket and Productid exists in Basket
+2021-06-23 15:56:31,794 WARN com.training.grocery.basket.BasketService [http-nio-8080-exec-4] 3 13 product not available in Product table
+2021-06-23 15:56:31,820 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-4] 3 Productid found and deleted
+2021-06-23 15:58:19,962 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 7092 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 15:58:19,964 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 15:58:19,965 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 15:58:24,371 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 15:58:24,371 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 15:58:25,128 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.649 seconds (JVM running for 6.072)
+2021-06-23 15:58:35,737 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 15:58:35,739 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 15:58:35,782 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email tarun@ts
+2021-06-23 15:58:35,980 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of tarun@ts 
+2021-06-23 15:58:35,989 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 15:58:36,031 INFO com.training.grocery.basket.BasketController [http-nio-8080-exec-3] Post method /basket/add, by userid 3
+2021-06-23 15:58:36,074 WARN com.training.grocery.basket.BasketService [http-nio-8080-exec-3] 3 40 product not available in Product table
+2021-06-23 15:58:36,076 WARN com.training.grocery.basket.BasketService [http-nio-8080-exec-3] 3 Productid not found in basket
+2021-06-23 16:13:25,249 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 7128 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 16:13:25,252 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 16:13:25,252 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 16:13:29,588 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 16:13:29,589 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 16:13:30,356 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.581 seconds (JVM running for 5.999)
+2021-06-23 16:13:59,613 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 16:13:59,878 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-2] No user exist by id
+2021-06-23 16:13:59,888 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-2] New user creating with id = gagan@ts
+2021-06-23 16:14:00,011 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-2] User gagan@ts Created
+2021-06-23 16:14:08,783 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 16:14:08,786 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Requesting token
+2021-06-23 16:14:08,787 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Requesting token for user gagan@ts
+2021-06-23 16:14:08,788 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email gagan@ts
+2021-06-23 16:14:08,796 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of gagan@ts 
+2021-06-23 16:14:08,798 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] User gagan@ts Authenticated
+2021-06-23 16:14:08,805 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email gagan@ts
+2021-06-23 16:14:08,806 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of gagan@ts 
+2021-06-23 16:14:08,825 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Token Gnerated 
+2021-06-23 16:14:08,825 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Token Gnerated eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJnYWdhbkB0cyIsImV4cCI6MTYyNDQ4MTA0OCwiaWF0IjoxNjI0NDQ1MDQ4fQ.zc8VrWq-uDcdXfKYWx1Ggq_nkKaZ1IZsV2PK9nFf2_c
+2021-06-23 16:15:24,233 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-23 16:15:24,234 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-23 16:15:24,247 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding User with email gagan@ts
+2021-06-23 16:15:24,270 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding roles of gagan@ts 
+2021-06-23 16:15:24,272 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-23 16:15:38,603 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting Header
+2021-06-23 16:15:38,604 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting email from token
+2021-06-23 16:15:38,605 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding User with email gagan@ts
+2021-06-23 16:15:38,607 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-8] Finding roles of gagan@ts 
+2021-06-23 16:15:38,608 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-8] Extracting email from token
+2021-06-23 16:16:21,236 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-7] Extracting Header
+2021-06-23 16:16:21,236 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-7] Extracting email from token
+2021-06-23 16:16:21,237 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-7] Finding User with email gagan@ts
+2021-06-23 16:16:21,239 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-7] Finding roles of gagan@ts 
+2021-06-23 16:16:21,240 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-7] Extracting email from token
+2021-06-23 16:16:21,245 INFO com.training.grocery.basket.BasketController [http-nio-8080-exec-7] Post method /basket/add, by userid 4
+2021-06-23 16:16:21,254 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-7] 4 userBasket exists but Productid doesn't
+2021-06-23 16:16:21,265 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-7] 4 new details saved in basket
+2021-06-23 16:17:08,026 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting Header
+2021-06-23 16:17:08,026 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting email from token
+2021-06-23 16:17:08,027 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-9] Finding User with email gagan@ts
+2021-06-23 16:17:08,029 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-9] Finding roles of gagan@ts 
+2021-06-23 16:17:08,029 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-9] Extracting email from token
+2021-06-23 16:17:08,032 INFO com.training.grocery.basket.BasketController [http-nio-8080-exec-9] Post method /basket/add, by userid 4
+2021-06-23 16:17:08,037 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-9] 4 userBasket and Productid exists in Basket
+2021-06-23 16:17:08,043 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-9] 4 Productid found and deleted
+2021-06-23 16:17:08,049 INFO com.training.grocery.basket.BasketService [http-nio-8080-exec-9] 4 new details saved in Basket
+2021-06-23 16:33:22,048 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 8904 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 16:33:22,051 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 16:33:22,052 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 16:35:21,100 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 3056 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 16:35:21,103 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 16:35:21,103 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 16:35:26,993 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 16:35:26,993 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 16:35:27,726 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 7.107 seconds (JVM running for 7.537)
+2021-06-23 16:35:49,743 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 16:35:49,983 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-1] No user exist by id
+2021-06-23 16:35:49,991 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-1] New user creating with id = gagan@ts
+2021-06-23 16:35:50,107 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-1] User gagan@ts Created
+2021-06-23 16:35:56,072 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 16:35:56,074 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Requesting token
+2021-06-23 16:35:56,074 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Requesting token for user gagan@ts
+2021-06-23 16:35:56,075 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email gagan@ts
+2021-06-23 16:35:56,085 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of gagan@ts 
+2021-06-23 16:35:56,086 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] User gagan@ts Authenticated
+2021-06-23 16:35:56,086 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email gagan@ts
+2021-06-23 16:35:56,087 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding roles of gagan@ts 
+2021-06-23 16:35:56,108 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Token Gnerated 
+2021-06-23 16:35:56,108 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-3] Token Gnerated eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJnYWdhbkB0cyIsImV4cCI6MTYyNDQ4MjM1NiwiaWF0IjoxNjI0NDQ2MzU2fQ.pClqgcv_DS4e064teLKpU2GMLz8jlHUTer-O639uwFQ
+2021-06-23 16:36:49,409 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 16:36:49,409 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 16:36:49,419 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email gagan@ts
+2021-06-23 16:36:49,437 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding roles of gagan@ts 
+2021-06-23 16:36:49,438 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-4] Extracting email from token
+2021-06-23 16:38:15,024 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-23 16:38:15,024 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-23 16:38:15,025 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding User with email gagan@ts
+2021-06-23 16:38:15,027 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-6] Finding roles of gagan@ts 
+2021-06-23 16:38:15,028 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-23 16:38:46,794 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 14284 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 16:38:46,797 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 16:38:46,797 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 16:38:51,369 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 16:38:51,371 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 16:38:52,134 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.823 seconds (JVM running for 6.23)
+2021-06-23 16:38:57,113 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 16:38:57,114 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-23 16:38:57,163 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding User with email gagan@ts
+2021-06-23 16:38:57,374 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding roles of gagan@ts 
+2021-06-23 16:38:57,384 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-23 16:40:12,957 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting Header
+2021-06-23 16:40:12,957 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting email from token
+2021-06-23 16:40:12,958 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] Finding User with email gagan@ts
+2021-06-23 16:40:12,963 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-5] Finding roles of gagan@ts 
+2021-06-23 16:40:12,965 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-5] Extracting email from token
+2021-06-23 16:40:12,973 INFO com.training.grocery.basket.BasketController [http-nio-8080-exec-5] Post method /basket/add, by userid 1
+2021-06-23 16:40:35,194 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 12508 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 16:40:35,197 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 16:40:35,198 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 16:40:39,495 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 16:40:39,496 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 16:40:40,265 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.544 seconds (JVM running for 5.966)
+2021-06-23 16:40:56,507 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 16:40:56,508 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 16:40:56,554 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email gagan@ts
+2021-06-23 16:40:56,747 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of gagan@ts 
+2021-06-23 16:40:56,754 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-23 16:40:56,796 INFO com.training.grocery.basket.BasketController [http-nio-8080-exec-2] Post method /basket/add, by userid 1
+2021-06-23 16:43:56,903 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 10984 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 16:43:56,906 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 16:43:56,906 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 16:44:01,573 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 16:44:01,574 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 16:44:02,379 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 5.977 seconds (JVM running for 6.41)
+2021-06-23 16:44:08,843 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-23 16:44:08,844 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-23 16:44:08,885 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding User with email gagan@ts
+2021-06-23 16:44:09,087 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-1] Finding roles of gagan@ts 
+2021-06-23 16:44:09,093 DEBUG com.training.grocery.JWT.Config.GenericFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-23 16:44:09,137 INFO com.training.grocery.basket.BasketController [http-nio-8080-exec-1] Post method /basket/add, by userid 1
+2021-06-23 16:53:14,255 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 4080 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 16:53:14,258 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 16:53:14,258 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 16:53:19,314 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 16:53:19,314 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 16:53:20,084 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.3 seconds (JVM running for 6.723)
+2021-06-23 16:53:37,725 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 16:53:37,969 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-3] No user exist by id
+2021-06-23 16:53:37,976 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-3] New user creating with id = naman@ts
+2021-06-23 16:53:38,096 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-3] User naman@ts Created
+2021-06-23 16:53:46,382 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 16:53:46,386 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-4] Requesting token
+2021-06-23 16:53:46,387 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-4] Requesting token for user naman@ts
+2021-06-23 16:53:46,388 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email naman@ts
+2021-06-23 16:53:46,395 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding roles of naman@ts 
+2021-06-23 16:53:46,396 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-4] User naman@ts Authenticated
+2021-06-23 16:53:46,397 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding User with email naman@ts
+2021-06-23 16:53:46,399 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-4] Finding roles of naman@ts 
+2021-06-23 16:53:46,419 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-4] Token Gnerated 
+2021-06-23 16:53:46,419 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-4] Token Gnerated eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYW1hbkB0cyIsImV4cCI6MTYyNDQ4MzQyNiwiaWF0IjoxNjI0NDQ3NDI2fQ.MlMXvbWOzyXrTg43o59u1-GtK4gL0NIDB4WtTlaUSfk
+2021-06-23 17:00:44,076 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 11292 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-23 17:00:44,081 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-23 17:00:44,082 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-23 17:00:49,127 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-23 17:00:49,128 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-23 17:00:49,857 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.247 seconds (JVM running for 6.664)
+2021-06-23 17:00:59,928 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-23 17:00:59,931 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting email from token
+2021-06-23 17:00:59,979 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] Finding User with email gagan@ts
+2021-06-23 17:01:00,136 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-3] No user exists by gagan@ts email
+2021-06-23 17:01:07,467 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-23 17:01:07,556 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-4] No user exist by id
+2021-06-23 17:01:07,563 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-4] New user creating with id = naman@ts
+2021-06-23 17:01:07,677 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-4] User naman@ts Created
+2021-06-23 17:01:11,216 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-23 17:01:11,220 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-2] Requesting token
+2021-06-23 17:01:11,220 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-2] Requesting token for user naman@ts
+2021-06-23 17:01:11,222 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email naman@ts
+2021-06-23 17:01:11,231 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of naman@ts 
+2021-06-23 17:01:11,233 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-2] User naman@ts Authenticated
+2021-06-23 17:01:11,233 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email naman@ts
+2021-06-23 17:01:11,234 DEBUG com.training.grocery.JWT.Services.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of naman@ts 
+2021-06-23 17:01:11,242 INFO com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-2] Token Gnerated 
+2021-06-23 17:01:11,242 DEBUG com.training.grocery.JWT.Controllers.JwtController [http-nio-8080-exec-2] Token Gnerated eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYW1hbkB0cyIsImV4cCI6MTYyNDQ4Mzg3MSwiaWF0IjoxNjI0NDQ3ODcxfQ.5vbfAxU2ymZGdZsW4MZUmVogdICXJO9jQ8O3hntfmIU
+2021-06-23 17:01:49,571 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-5] Extracting Header
+2021-06-23 17:01:49,576 DEBUG com.training.grocery.USER.UserService [http-nio-8080-exec-5] No user exist by id
+2021-06-23 17:01:49,577 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-5] New user creating with id = ndman@ts
+2021-06-23 17:01:49,596 DEBUG com.training.grocery.USER.UserController [http-nio-8080-exec-5] User ndman@ts Created

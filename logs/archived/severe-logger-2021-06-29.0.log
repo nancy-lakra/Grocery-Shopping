@@ -1,0 +1,178 @@
+2021-06-29 11:39:11,156 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 13968 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 11:39:11,202 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 11:39:11,202 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 11:41:32,780 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 12104 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 11:41:32,782 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 11:41:32,782 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 11:41:37,952 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 11:41:37,953 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 11:42:24,331 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 5964 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 11:42:24,333 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 11:42:24,333 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 11:42:29,190 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 11:42:29,191 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 11:43:31,888 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 15144 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 11:43:31,891 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 11:43:31,892 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 11:43:36,958 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 11:43:36,959 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 11:43:38,025 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.588 seconds (JVM running for 6.997)
+2021-06-29 11:52:34,197 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 8332 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 11:52:34,200 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 11:52:34,201 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 11:52:39,178 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 11:52:39,178 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 11:52:39,947 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.203 seconds (JVM running for 6.598)
+2021-06-29 11:53:16,997 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-29 11:53:17,148 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-3] Entered users/signUp
+2021-06-29 11:53:17,155 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-3] Missing data in user JSON request: com.training.grocery.USER.User@14e01d58
+2021-06-29 11:53:55,244 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-29 11:53:55,246 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-4] Entered users/signUp
+2021-06-29 11:54:09,620 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-29 11:54:09,621 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-6] Entered users/signUp
+2021-06-29 11:54:09,622 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-6] Missing data in user JSON request: com.training.grocery.USER.User@740d8032
+2021-06-29 11:55:35,817 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting Header
+2021-06-29 11:55:35,819 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-9] Entered users/signUp
+2021-06-29 11:55:35,820 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-9] Missing data in user JSON request: com.training.grocery.USER.User@77ffa310
+2021-06-29 11:55:43,874 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-10] Extracting Header
+2021-06-29 11:55:43,876 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-10] Entered users/signUp
+2021-06-29 11:55:43,877 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-10] Missing data in user JSON request: com.training.grocery.USER.User@79823181
+2021-06-29 11:55:52,736 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-29 11:55:52,738 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-3] Entered users/signUp
+2021-06-29 11:55:52,739 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-3] Missing data in user JSON request: com.training.grocery.USER.User@6079d4a5
+2021-06-29 11:55:59,770 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-29 11:55:59,771 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-4] Entered users/signUp
+2021-06-29 11:55:59,772 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-4] Missing data in user JSON request: com.training.grocery.USER.User@5d61eb47
+2021-06-29 11:56:20,541 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-29 11:56:20,542 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-6] Entered users/signUp
+2021-06-29 11:56:20,543 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-6] Missing data in user JSON request: com.training.grocery.USER.User@7aca70c3
+2021-06-29 11:56:21,674 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting Header
+2021-06-29 11:56:21,676 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-9] Entered users/signUp
+2021-06-29 11:56:21,677 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-9] Missing data in user JSON request: com.training.grocery.USER.User@7938539f
+2021-06-29 11:57:07,121 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-10] Extracting Header
+2021-06-29 11:57:07,123 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-10] Entered users/signUp
+2021-06-29 11:57:07,124 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-10] Missing data in user JSON request: com.training.grocery.USER.User@912254f
+2021-06-29 11:57:12,760 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-29 11:57:12,762 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-3] Entered users/signUp
+2021-06-29 11:57:12,763 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-3] Missing data in user JSON request: com.training.grocery.USER.User@33ba9015
+2021-06-29 11:57:28,405 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-29 11:57:28,407 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-4] Entered users/signUp
+2021-06-29 11:57:28,408 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-4] Missing data in user JSON request: com.training.grocery.USER.User@5293058a
+2021-06-29 11:57:33,829 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-29 11:57:51,891 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting Header
+2021-06-29 11:57:51,893 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-9] Entered users/signUp
+2021-06-29 11:57:51,893 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-9] Missing data in user JSON request: com.training.grocery.USER.User@7d07c860
+2021-06-29 11:57:57,671 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-10] Extracting Header
+2021-06-29 11:57:57,673 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-10] Entered users/signUp
+2021-06-29 11:57:57,674 ERROR com.training.grocery.USER.UserController [http-nio-8080-exec-10] Missing data in user JSON request: com.training.grocery.USER.User@19adcece
+2021-06-29 11:58:03,154 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-3] Extracting Header
+2021-06-29 12:00:07,178 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 9424 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 12:00:07,180 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 12:00:07,181 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 12:00:12,758 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 12:00:12,759 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 12:00:13,553 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.832 seconds (JVM running for 7.238)
+2021-06-29 12:00:17,122 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-29 12:00:17,208 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-1] Entered users/signUp
+2021-06-29 12:00:17,445 ERROR com.training.grocery.USER.UserService [http-nio-8080-exec-1] No user exist with the details :com.training.grocery.USER.User@5dd559b1
+2021-06-29 12:01:19,034 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-29 12:01:19,036 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-2] Entered users/signUp
+2021-06-29 12:01:19,040 ERROR com.training.grocery.USER.UserService [http-nio-8080-exec-2] No user exist with the details :com.training.grocery.USER.User@6186cbd2
+2021-06-29 12:02:56,966 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 14172 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 12:02:56,969 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 12:02:56,969 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 12:03:01,798 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 12:03:01,800 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 12:03:02,542 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.033 seconds (JVM running for 6.427)
+2021-06-29 12:03:10,972 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-29 12:03:11,070 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-4] Entered users/signUp
+2021-06-29 12:03:11,218 ERROR com.training.grocery.USER.UserService [http-nio-8080-exec-4] No user exist with the details :com.training.grocery.USER.User@82f12a8
+2021-06-29 12:08:38,478 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 8628 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 12:08:38,482 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 12:08:38,482 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 12:08:43,751 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 12:08:43,752 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 12:08:44,478 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.454 seconds (JVM running for 6.851)
+2021-06-29 12:08:50,566 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-29 12:08:50,645 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-1] Entered users/signUp
+2021-06-29 12:08:50,786 ERROR com.training.grocery.USER.UserService [http-nio-8080-exec-1] No user exist with the details :com.training.grocery.USER.User@5add42ae
+2021-06-29 12:08:50,896 INFO com.training.grocery.USER.UserService [http-nio-8080-exec-1] New user created with id = ndman@ts
+2021-06-29 12:08:50,911 INFO com.training.grocery.USER.UserService [http-nio-8080-exec-1] Wallet created with for user = ndman@ts
+2021-06-29 12:08:51,000 INFO com.training.grocery.USER.UserService [http-nio-8080-exec-1] Basket created with for user = ndman@ts
+2021-06-29 12:08:51,001 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-1] New user created with id = ndman@ts
+2021-06-29 12:14:24,798 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 14772 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 12:14:24,801 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 12:14:24,801 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 12:16:00,090 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 11476 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 12:16:00,092 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 12:16:00,092 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 12:17:42,398 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 7756 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 12:17:42,401 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 12:17:42,401 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 12:17:48,526 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 12:17:48,527 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 12:17:49,282 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 7.336 seconds (JVM running for 7.731)
+2021-06-29 12:18:07,257 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-29 12:18:07,349 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-4] Entered users/signUp
+2021-06-29 12:18:07,500 ERROR com.training.grocery.USER.UserService [http-nio-8080-exec-4] No user exist with the details :com.training.grocery.USER.User@384db1d2
+2021-06-29 12:19:57,838 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 10640 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 12:19:57,841 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 12:19:57,841 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 12:20:50,595 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 13492 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 12:20:50,601 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 12:20:50,601 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 12:20:57,042 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 12:20:57,043 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 12:20:58,093 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 7.938 seconds (JVM running for 8.344)
+2021-06-29 12:21:01,453 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-29 12:21:01,555 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-2] Entered users/signUp
+2021-06-29 12:21:01,712 ERROR com.training.grocery.USER.UserService [http-nio-8080-exec-2] No user exist with the details :com.training.grocery.USER.User@708599e0
+2021-06-29 12:22:28,123 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 7104 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 12:22:28,125 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 12:22:28,126 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 12:22:33,755 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 12:22:33,756 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 12:22:34,489 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.824 seconds (JVM running for 7.208)
+2021-06-29 12:22:35,694 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-29 12:22:35,783 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-1] Entered users/signUp
+2021-06-29 12:22:35,930 ERROR com.training.grocery.USER.UserService [http-nio-8080-exec-1] No user exist with the details :com.training.grocery.USER.User@29b7fd97
+2021-06-29 12:23:31,131 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 7468 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 12:23:31,133 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 12:23:31,134 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 12:23:37,855 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 12:23:37,855 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 12:23:38,572 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 7.893 seconds (JVM running for 8.304)
+2021-06-29 12:23:46,599 DEBUG com.training.grocery.JWT.Config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-29 12:23:46,695 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-1] Entered users/signUp
+2021-06-29 12:23:46,830 ERROR com.training.grocery.USER.UserService [http-nio-8080-exec-1] No user exist with the details :com.training.grocery.USER.User@45dd131c
+2021-06-29 12:23:46,913 INFO com.training.grocery.USER.UserService [http-nio-8080-exec-1] New user created with id = ndman@ts
+2021-06-29 12:23:46,927 INFO com.training.grocery.USER.UserService [http-nio-8080-exec-1] Wallet created with for user = ndman@ts
+2021-06-29 12:23:46,947 INFO com.training.grocery.USER.UserService [http-nio-8080-exec-1] Basket created with for user = ndman@ts
+2021-06-29 12:23:46,947 INFO com.training.grocery.USER.UserController [http-nio-8080-exec-1] New user created with id = ndman@ts
+2021-06-29 23:01:49,202 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 3076 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 23:01:49,256 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 23:01:49,256 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 23:03:27,311 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 280 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 23:03:27,314 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 23:03:27,314 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 23:04:06,533 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 9996 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 23:04:06,535 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 23:04:06,536 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 23:05:01,721 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 4400 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 23:05:01,724 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 23:05:01,724 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 23:10:59,749 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 12028 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 23:10:59,753 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 23:10:59,753 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 23:14:40,361 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 14064 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 23:14:40,364 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 23:14:40,365 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 23:19:13,462 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 15900 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 23:19:13,464 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 23:19:13,465 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 23:21:45,219 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 10692 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-29 23:21:45,222 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-29 23:21:45,222 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-29 23:21:50,524 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-29 23:21:50,524 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-29 23:21:52,089 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 7.35 seconds (JVM running for 7.766)

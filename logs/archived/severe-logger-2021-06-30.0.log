@@ -1,0 +1,67 @@
+2021-06-30 15:22:04,048 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 15836 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-30 15:22:04,074 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-30 15:22:04,075 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-30 15:23:07,317 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 15932 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-30 15:23:07,320 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-30 15:23:07,321 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-30 15:23:14,752 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-30 15:23:14,753 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-30 15:23:16,056 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 9.203 seconds (JVM running for 9.619)
+2021-06-30 16:22:12,500 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 16592 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-30 16:22:12,502 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-30 16:22:12,502 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-30 16:22:18,632 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-30 16:22:18,633 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-30 16:22:19,456 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 7.716 seconds (JVM running for 8.436)
+2021-06-30 16:28:06,922 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-4] Extracting Header
+2021-06-30 16:28:07,154 INFO com.training.grocery.user.controller.UserController [http-nio-8080-exec-4] Entered users/signUp
+2021-06-30 16:28:07,427 ERROR com.training.grocery.user.hibernate.UserService [http-nio-8080-exec-4] No user exist with the details :com.training.grocery.user.dbmodel.User@387a5770
+2021-06-30 16:28:07,704 INFO com.training.grocery.user.hibernate.UserService [http-nio-8080-exec-4] New user created with id = ndman@ts
+2021-06-30 16:28:07,746 INFO com.training.grocery.user.hibernate.UserService [http-nio-8080-exec-4] Wallet created with for user = ndman@ts
+2021-06-30 16:28:07,837 INFO com.training.grocery.user.hibernate.UserService [http-nio-8080-exec-4] Basket created with for user = ndman@ts
+2021-06-30 16:28:07,838 INFO com.training.grocery.user.controller.UserController [http-nio-8080-exec-4] New user created with id = ndman@ts
+2021-06-30 16:28:24,478 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-30 16:28:24,485 INFO com.training.grocery.jwt.controllers.JwtController [http-nio-8080-exec-2] Entered users/login, Requesting token
+2021-06-30 16:28:24,486 DEBUG com.training.grocery.jwt.controllers.JwtController [http-nio-8080-exec-2] Requesting token for user ndman@ts
+2021-06-30 16:28:24,496 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email ndman@ts
+2021-06-30 16:28:24,498 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of ndman@ts 
+2021-06-30 16:28:24,501 DEBUG com.training.grocery.jwt.controllers.JwtController [http-nio-8080-exec-2] User ndman@ts Authenticated
+2021-06-30 16:28:24,501 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email ndman@ts
+2021-06-30 16:28:24,502 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of ndman@ts 
+2021-06-30 16:28:24,586 INFO com.training.grocery.jwt.controllers.JwtController [http-nio-8080-exec-2] Token Gnerated 
+2021-06-30 16:30:17,731 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting Header
+2021-06-30 16:30:17,732 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-30 16:30:17,740 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-6] Finding User with email ndman@ts
+2021-06-30 16:30:17,758 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-6] Finding roles of ndman@ts 
+2021-06-30 16:30:17,759 DEBUG com.training.grocery.jwt.config.GenericFilter [http-nio-8080-exec-6] Extracting email from token
+2021-06-30 16:30:30,391 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-7] Extracting Header
+2021-06-30 16:30:30,391 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-7] Extracting email from token
+2021-06-30 16:30:30,392 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-7] Finding User with email ndman@ts
+2021-06-30 16:30:30,395 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-7] Finding roles of ndman@ts 
+2021-06-30 16:30:30,396 DEBUG com.training.grocery.jwt.config.GenericFilter [http-nio-8080-exec-7] Extracting email from token
+2021-06-30 16:30:40,355 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting Header
+2021-06-30 16:30:40,355 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-8] Extracting email from token
+2021-06-30 16:30:40,356 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-8] Finding User with email ndman@ts
+2021-06-30 16:30:40,359 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-8] Finding roles of ndman@ts 
+2021-06-30 16:30:40,360 DEBUG com.training.grocery.jwt.config.GenericFilter [http-nio-8080-exec-8] Extracting email from token
+2021-06-30 16:31:17,833 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting Header
+2021-06-30 16:31:17,833 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-9] Extracting email from token
+2021-06-30 16:31:17,834 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-9] Finding User with email ndman@ts
+2021-06-30 16:31:17,836 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-9] Finding roles of ndman@ts 
+2021-06-30 16:31:17,836 DEBUG com.training.grocery.jwt.config.GenericFilter [http-nio-8080-exec-9] Extracting email from token
+2021-06-30 16:37:25,793 INFO org.springframework.boot.StartupInfoLogger [main] Starting GroceryApplication using Java 11.0.11 on DESKTOP-PE5AI8L with PID 14324 (D:\TechnogramSolutions\Projects\New folder\grocery\bin\main started by niles in D:\TechnogramSolutions\Projects\New folder\grocery)
+2021-06-30 16:37:25,796 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1-SNAPSHOT, Spring v5.3.8
+2021-06-30 16:37:25,797 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-30 16:37:30,637 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtAuthenticationFilter' configured for use
+2021-06-30 16:37:30,638 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'genericFilter' configured for use
+2021-06-30 16:37:31,596 INFO org.springframework.boot.StartupInfoLogger [main] Started GroceryApplication in 6.276 seconds (JVM running for 6.709)
+2021-06-30 16:37:39,309 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting Header
+2021-06-30 16:37:39,311 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-30 16:37:39,353 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-1] Finding User with email ndman@ts
+2021-06-30 16:37:39,535 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-1] Finding roles of ndman@ts 
+2021-06-30 16:37:39,543 DEBUG com.training.grocery.jwt.config.GenericFilter [http-nio-8080-exec-1] Extracting email from token
+2021-06-30 16:37:55,593 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting Header
+2021-06-30 16:37:55,594 DEBUG com.training.grocery.jwt.config.JwtAuthenticationFilter [http-nio-8080-exec-2] Extracting email from token
+2021-06-30 16:37:55,594 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-2] Finding User with email ndman@ts
+2021-06-30 16:37:55,598 DEBUG com.training.grocery.jwt.service.CustomUserDetailsService [http-nio-8080-exec-2] Finding roles of ndman@ts 
+2021-06-30 16:37:55,599 DEBUG com.training.grocery.jwt.config.GenericFilter [http-nio-8080-exec-2] Extracting email from token
